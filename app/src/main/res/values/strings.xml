@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RikkeiAndroidLesson5</string>
+    <string name="name_app">RikkeiAndroidLesson5</string>
+
+    <!--TEXTVIEW-->
+    <string name="tv_contact">Contact</string>
+    <string name="tv_contact_number">Contact Number</string>
+    <string name="tv_information_contact">INFORMATION CONTACT</string>
+    <string name="tv_add_contact">ADD CONTACT</string>
+
+    <!--BUTTON-->
+    <string name="bt_add">Add</string>
+    <string name="bt_switch">Switch</string>
+    <string name="bt_save">Save</string>
+    <string name="bt_close">Close</string>
+    <string name="bt_delete">Delete</string>
+
+    <!--EDIT TEXT-->
+    <string name="et_contact_name">Contact name</string>
+    <string name="et_contact_number">Contact number</string>
+</resources>
